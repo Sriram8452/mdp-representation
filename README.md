@@ -37,13 +37,19 @@ The reward function assigns rewards based on the effectiveness of the chosen act
     Reward function: R(S, A) = Positive reward for reaching the destination efficiently, negative reward for taking a detour or encountering a blockage.
 
 ### Graphical Representation
-Write your answer here
+
+![WhatsApp Image 2024-09-03 at 16 33 51_cad4ad2e](https://github.com/user-attachments/assets/1576ca9e-b2f6-45d5-a1e4-b630f7becf9b)
+
 
 ## PYTHON REPRESENTATION:
-Write your code here
+
+![image](https://github.com/user-attachments/assets/d1289e5a-f490-4a1e-bb0b-cb712679eef1)
+
 
 ## OUTPUT:
-Write your Python output here
+
+![image](https://github.com/user-attachments/assets/d6e82257-b4d2-48cf-8541-d0d833d1b5b6)
+
 
 ## RESULT:
 
