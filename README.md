@@ -1,7 +1,8 @@
 # MDP REPRESENTATION
 
 ## AIM:
-Write your aim here
+
+To create a MDP (Markov Decision Process) for the undertaken problem statement
 
 ## PROBLEM STATEMENT:
 
