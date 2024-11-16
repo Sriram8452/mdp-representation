@@ -16,6 +16,7 @@ The problem involves detecting road blockages in a city. The goal is to identify
 
 The state space consists of all possible road conditions at a given time. Each state represents a specific configuration of roads, including whether they are blocked or clear.
 
+
     State variables: S = {S_1, S_2, ..., S_n}, where S_i represents a possible state, including the conditions of different roads (e.g., road open, road blocked).
 
 ### Sample State
