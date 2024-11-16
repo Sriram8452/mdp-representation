@@ -39,7 +39,8 @@ A sample action could be: A = {Take Alternate Route}
 
 The reward function assigns rewards based on the effectiveness of the chosen action in reaching the destination without delay. A higher reward is given for efficient routes, while a penalty is assigned for blocked roads or unnecessary detours.
 
-    Reward function: R(S, A) = Positive reward for reaching the destination efficiently, negative reward for taking a detour or encountering a blockage.
+    Reward function: R(S, A) = Positive reward for reaching the destination efficiently, 
+    negative reward for taking a detour or encountering a blockage.
 
 ### Graphical Representation
 
