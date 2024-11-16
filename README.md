@@ -17,7 +17,8 @@ The problem involves detecting road blockages in a city. The goal is to identify
 The state space consists of all possible road conditions at a given time. Each state represents a specific configuration of roads, including whether they are blocked or clear.
 
 
-    State variables: S = {S_1, S_2, ..., S_n}, where S_i represents a possible state, including the conditions of different roads (e.g., road open, road blocked).
+    State variables: S = {S_1, S_2, ..., S_n}, where S_i represents a possible state, 
+    including the conditions of different roads (e.g., road open, road blocked).
 
 ### Sample State
 
@@ -27,7 +28,8 @@ A sample state could be: S = {Road_1: Clear, Road_2: Blocked, Road_3: Clear}
 
 The action space consists of the set of possible actions that a vehicle can take when encountering a blocked road. These actions involve choosing an alternative route or proceeding along the current path.
 
-    Action variables: A = {A_1, A_2, ..., A_n}, where A_i represents an action, such as "Take Alternate Route 1" or "Proceed on Current Route."
+    Action variables: A = {A_1, A_2, ..., A_n}, where A_i represents an action, 
+    such as "Take Alternate Route 1" or "Proceed on Current Route."
 
 ### Sample Action
 
